@@ -4,7 +4,10 @@
 - Tailwind
 - Javascript
 - React
+- React Component
+- React Events
 - useState Hook
+- Responsive Web Design
 
 
 ### Reference
